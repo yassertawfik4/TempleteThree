@@ -175,7 +175,7 @@ li {
     /* color: #fbfbfb; */
     letter-spacing: 0.4rem;
     font-weight: 400;
-    margin-bottom: 55px;
+    margin-bottom: 40px;
     padding: 0px 20px;
     line-height: 1.8rem;
     text-align: center;
@@ -198,8 +198,8 @@ li {
 /* End home */
 /* start intro */
 .intro{
-    padding-top: 160px;
-    padding-bottom: 160px;
+    padding-top: 130px;
+    padding-bottom: 130px;
     text-align: center;
 }
 .intro p{
