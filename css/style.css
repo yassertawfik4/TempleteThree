@@ -284,6 +284,7 @@ content: "";
 }
 .services .row .box-info:hover::before{
     width: 100%;
+    
 }
 .services .row .box {
     background: #fff;
